@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Libreria_CRUD.Detalles">
+    <ContentPage.Content>
+        <StackLayout Padding="30" Spacing="10">
+            <Label Text="Sí desea eliminar o actualizar un registro verifique que los datos igresados sean correctos"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Nombre del libro"></Label>
+            <Entry x:Name="txtNombreLibro"></Entry>
+            <Label Text="Autor del libro"></Label>
+            <Entry x:Name="txtAutor"></Entry>
+            <Label Text="Año de publicación"></Label>
+            <Entry x:Name="txtPublicacion" Keyboard="Numeric"></Entry>
+            <Label Text="Libros disponibles"></Label>
+            <Entry x:Name="txtCantidad" Keyboard="Numeric"></Entry>
+            <Button Text="Actualizar Registro" x:Name="btnActuaizar" Clicked="btnActuaizar_Clicked"></Button>
+            <Button Text="Eliminar Registro" x:Name="btnEliminar" Clicked="btnEliminar_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

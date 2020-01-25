@@ -1,0 +1,15 @@
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\bin\Debug\netstandard2.0\Libreria_CRUD.deps.json
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\bin\Debug\netstandard2.0\Libreria_CRUD.dll
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\Libreria_CRUD.csprojAssemblyReference.cache
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\Libreria_CRUD.AssemblyInfoInputs.cache
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\Libreria_CRUD.AssemblyInfo.cs
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\bin\Debug\netstandard2.0\ref\Libreria_CRUD.dll
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\bin\Debug\netstandard2.0\Libreria_CRUD.pdb
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\Libreria_CRUD.dll
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\ref\Libreria_CRUD.dll
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\Libreria_CRUD.pdb
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\Detalles.xaml.g.cs
+C:\Users\jeff_\source\repos\Libreria_CRUD\Libreria_CRUD\Libreria_CRUD\obj\Debug\netstandard2.0\Listado.xaml.g.cs

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Libreria_CRUD.MainPage">
+
+    <StackLayout Margin="20" Spacing="10">
+        <!-- Place new controls here -->
+        <Label Text="LIBRERÍA" TextColor="CadetBlue"  VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"></Label>
+        <Label Text="Nombre del libro"></Label>
+        <Entry x:Name="txtNombreLibro"></Entry>
+        <Label Text="Autor del libro"></Label>
+        <Entry x:Name="txtAutor"></Entry>
+        <Label Text="Año de publicación"></Label>
+        <Entry x:Name="txtPublicacion" Keyboard="Numeric"></Entry>
+        <Label Text="Libros disponibles"></Label>
+        <Entry x:Name="txtCantidad" Keyboard="Numeric"></Entry>
+        <Button Text="Agregar libro" x:Name="btnAgregarLibro" Clicked="btnAgregarLibro_Clicked"></Button>
+        <Button Text="Ver libros disponibles" x:Name="btnVerLibros" Clicked="btnVerLibros_Clicked"></Button>
+    </StackLayout>
+
+</ContentPage>
